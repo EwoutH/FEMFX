@@ -5,4 +5,4 @@ build:
   project: amd_femfx/FEMFXLib_vs2019.sln
 
 artifacts:
-  path: obj\vs2019\x86_64\x64\Release\*.*
+  path: lib\*.*
