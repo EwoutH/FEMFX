@@ -1,4 +1,4 @@
-# AMD FEMFX [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/OpenVisualCloud/SVT-AV1?branch=master&svg=true)](https://ci.appveyor.com/project/OpenVisualCloud/SVT-AV1)
+# AMD FEMFX [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/GPUOpen-Effects/FEMFX?branch=master&svg=true)](https://ci.appveyor.com/project/GPUOpen-Effects/FEMFX)
 _v0.1.0_
 
 FEMFX is a multithreaded CPU library for deformable material physics, using 
