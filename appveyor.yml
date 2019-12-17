@@ -1,0 +1,8 @@
+image: Visual Studio 2019
+configuration: Release
+
+build:
+  project: amd_femfx/FEMFXLib_vs2019.sln
+
+artifacts:
+  path: bin\**\*FEMFX*.exe
